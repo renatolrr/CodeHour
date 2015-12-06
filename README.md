@@ -1,2 +1,2 @@
 # CodeHour
-Repositorio para ejercicios de Scratch para la hora del código
+### Repositorio con ejercicios de Scratch para la hora del código
